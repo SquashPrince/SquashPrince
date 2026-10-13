@@ -1,4 +1,4 @@
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=SquashPrince&utm_content=farm">
+<a href="https://github.com/SquashPrince/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/SquashPrince"
   width="960"
