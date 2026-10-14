@@ -1,4 +1,4 @@
-# 👏Welcome To SquashPrince's Git ! ! !
+# 👏Welcome to SquashPrince's Git ! ! !
 
 <a href="https://github.com/SquashPrince/gitanimals">
 <img
